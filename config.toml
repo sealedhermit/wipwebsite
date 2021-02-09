@@ -1,8 +1,10 @@
-baseURL = "https://wipwebsite.vercel.app/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Home"
 theme = "PaperMod"
 paginate = 5
+
+googleAnalytics = "UA-189276531-1"
 
 
 
@@ -11,16 +13,12 @@ env = "production"
 description = "This is a hugo website based on PaperMod theme by AdityaTelange"
 author = "Theme PaperMod"
 defaultTheme = "auto"
-googleAnalytics = "UA-189276531-1"
 ShowShareButtons = true
 ShowReadingTime = true
 displayFullLangName = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = true
-
-
-
 
 
 

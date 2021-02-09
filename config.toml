@@ -15,7 +15,11 @@ displayFullLangName = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = true
-comments = true
+
+
+
+
+
 
 
 [params.homeInfoParams]
@@ -64,3 +68,7 @@ home = [ "HTML", "RSS", "JSON" ]
   [[params.socialIcons]]
   name = "RsS"
   url = "index.xml"
+  
+  
+  [params]
+  comments = true

@@ -15,8 +15,7 @@ displayFullLangName = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = true
-
-GoogleAnalytics = "UA-189304510-1"
+googleAnalytics = "UA-189304510-1"
 
 
 

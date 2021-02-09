@@ -5,8 +5,17 @@ theme = "PaperMod"
 paginate = 5
 
 [params]
+env = "production"
+description = "This is a hugo website based on PaperMod theme by AdityaTelange"
+author = "Theme PaperMod"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowToc = true
 
-defaultTheme = "light"
 
 [params.homeInfoParams]
   Title = "Sample website"

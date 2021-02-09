@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Home"
 theme = "PaperMod"
 paginate = 5
+googleAnalytics = "G-H2VEZ3NM39"
+
 
 [params]
 env = "production"
@@ -15,7 +17,7 @@ displayFullLangName = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = true
-googleAnalytics = "UA-189304510-1"
+
 
 
 

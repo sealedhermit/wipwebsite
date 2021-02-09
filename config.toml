@@ -23,7 +23,7 @@ ShowToc = true
 
 
 [params.homeInfoParams]
-  Title = "Sample website"
+  Title = "My website"
   Content = """
 Welcome to demo of a hugo static website.
 - This is a simple but fast and responsive website with useful feature-set that enhances UX.

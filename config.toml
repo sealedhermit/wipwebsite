@@ -15,7 +15,7 @@ displayFullLangName = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = true
-
+comments = true
 
 
 
@@ -70,5 +70,4 @@ home = [ "HTML", "RSS", "JSON" ]
   url = "index.xml"
   
   
-  [params]
-  comments = true
+  

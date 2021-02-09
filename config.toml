@@ -1,6 +1,6 @@
 baseURL = "https://wipwebsite.vercel.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Home"
 theme = "PaperMod"
 paginate = 5
 

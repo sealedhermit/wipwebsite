@@ -5,9 +5,9 @@ date: "2019-03-09"
 description: "nursery rhyme"
 categories: ["placeholder"]
 tags: ["markdown", "text"]
-hideMeta: true
+hideMeta: false
 searchHidden: false
-ShowBreadCrumbs: false
+ShowBreadCrumbs: true
 ---
 
 Have you any wool?

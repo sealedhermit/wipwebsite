@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://wipwebsite.vercel.app/"
 languageCode = "en-us"
 title = "Home"
 theme = "PaperMod"

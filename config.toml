@@ -70,5 +70,5 @@ home = [ "HTML", "RSS", "JSON" ]
   name = "RsS"
   url = "index.xml"
   
-  
+  ignoreErrors: ["error-remote-getjson"]  #yml or ignoreErrors = ["error-remote-getjson"]  #toml 
   
